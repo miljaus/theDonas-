@@ -1,0 +1,81 @@
+[33mcommit 8586777f85fc6f9515b9aed39ea1a28ccfb4468c[m
+Author: franzhflores@hotmail.com <franzhflores@htomail.com>
+Date:   Sun Jul 28 22:15:29 2013 -0400
+
+    create a new file
+
+[33mcommit 4aa63e72e37c54b1456d1787657fc31b2b2e33e5[m
+Author: franzhflores@hotmail.com <franzhflores@htomail.com>
+Date:   Wed Jul 3 00:29:51 2013 -0400
+
+    hola
+
+[33mcommit 4827fe8195759d587188e1559113adf06b9eb5b5[m
+Merge: 975602b 271db3c
+Author: homerfs <homero@hotmail.com>
+Date:   Tue Jul 2 21:22:37 2013 -0700
+
+    Merge pull request #1 from bartfs/master
+    
+    All my change
+
+[33mcommit 271db3ce7206e96061a6decd672c2767dc2817c4[m
+Author: Bart <bart@hotmail.com>
+Date:   Wed Jul 3 00:19:37 2013 -0400
+
+    finally version
+
+[33mcommit 818b7a58740e8cefeadd5c0790bb95af4faba8d4[m
+Merge: dbb4381 d0271d8
+Author: Bart <bart@hotmail.com>
+Date:   Wed Jul 3 00:17:10 2013 -0400
+
+    first merge
+
+[33mcommit d0271d8e50886f51900413b6ca4addb71d7ac1d9[m
+Author: Bart <bart@hotmail.com>
+Date:   Wed Jul 3 00:10:40 2013 -0400
+
+    test branch bart
+
+[33mcommit dbb4381660b0121922aab37c3690abf561a4a774[m
+Author: Bart <bart@hotmail.com>
+Date:   Wed Jul 3 00:09:26 2013 -0400
+
+    tets merge
+
+[33mcommit 2e6ef12d5641719f22e961e38f4d55c90da21246[m
+Author: Bart <bart@hotmail.com>
+Date:   Tue Jul 2 23:56:43 2013 -0400
+
+    changed from UI
+
+[33mcommit e137d06001a3cae7fc2c81d93e1ab83512ab9f3e[m
+Author: Bart <bart@hotmail.com>
+Date:   Tue Jul 2 23:45:09 2013 -0400
+
+    brannch bart test
+
+[33mcommit c6a85e016a844f1949977bc768b421ba534ebc19[m
+Author: Bart <bart@hotmail.com>
+Date:   Tue Jul 2 23:40:27 2013 -0400
+
+    new brach test
+
+[33mcommit e42dc9cfc081b35b1af1451115267f3450d45b4a[m
+Author: franzhflores@hotmail.com <franzhflores@htomail.com>
+Date:   Tue Jul 2 23:30:19 2013 -0400
+
+    a line more
+
+[33mcommit 4c0de0447e0599d40f08e39068e7444c0a16cf15[m
+Author: franzhflores@hotmail.com <franzhflores@htomail.com>
+Date:   Tue Jul 2 23:27:43 2013 -0400
+
+    added a new txt file
+
+[33mcommit 975602b7068cee482029f0a28cf064d9d17447d3[m
+Author: homerfs <homero@hotmail.com>
+Date:   Tue Jul 2 19:56:24 2013 -0700
+
+    Initial commit
